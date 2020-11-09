@@ -1,0 +1,3 @@
+[submodule "tsuritoukou"]
+	path = tsuritoukou
+	url = https://github.com/rikusaba1826/tsuritoukou.git
